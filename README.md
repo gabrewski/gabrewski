@@ -1,7 +1,7 @@
 <div>
- <img src="https://github.com/images/mona-whisper.gif" alt="gif" width="60" height="60">  <h1>Oi</h1>
+   <h1>Oi</h1>
 </div>
-
+<img src="https://github.com/images/mona-whisper.gif" alt="gif" width="60" height="60">
 <h2>Formação</h2>
 
 <div>
