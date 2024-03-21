@@ -1,5 +1,5 @@
 <div>
- <img src="https://github.com/images/mona-whisper.gif" alt="gif" width="50" height="50">  <h1>Oi</h1> 
+  <h1>Oi  <img src="https://github.com/images/mona-whisper.gif" alt="gif" width="50" height="50"></h1> 
 </div>
 
 <h2>Formação</h2>
