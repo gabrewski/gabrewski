@@ -1,6 +1,4 @@
-<div>
-  <h1>Oi  <img src="https://github.com/images/mona-whisper.gif" alt="gif" width="50" height="50"></h1> 
-</div>
+<h1>Oi  <img src="https://github.com/images/mona-whisper.gif" alt="gif" width="50" height="50"></h1> 
 
 <h2>Formação</h2>
 
