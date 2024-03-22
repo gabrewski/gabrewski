@@ -20,6 +20,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40"/>          
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40" height="40"/> </div>
 
+<hr>
 <a href="https://github.com/gabrewski">
 <img loading="lazy" height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrewski&layout=compact&langs_count=7&theme=dracula"/>
 </div>
