@@ -3,7 +3,7 @@
 <h2>Formação</h2>
 
 <div>
-  <img src="https://www.picgifs.com/mini-graphics/mini-graphics/kirby/mini-graphics-kirby-532383.gif" alt="gif" width="25" height="25"> Técnico de informática - SENAC [2022 - atualmente]
+  <img src="https://www.picgifs.com/mini-graphics/mini-graphics/kirby/mini-graphics-kirby-532383.gif" alt="gif" width="25" height="25"> Técnico de informática - SENAC [2022 - 2024]
 </div>
 
 <img src="https://www.picgifs.com/mini-graphics/mini-graphics/kirby/mini-graphics-kirby-744718.gif" alt="gif" width="23" height="23"> Análise e Desenvolvimento de Sistemas - IFPR [2024 - atualmente]
