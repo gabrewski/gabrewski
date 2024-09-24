@@ -10,9 +10,11 @@
 
 <h1>Ainda estou aprendendo
 <img src="https://www.picgifs.com/mini-graphics/mini-graphics/computer/mini-graphics-computer-401093.gif" alt="gif" width="68" height="50">
-<div> </h1>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,python)](https://skillicons.dev)
-<div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,python,java,php" />
+  </a>
+</p>
   
  </div>
 
