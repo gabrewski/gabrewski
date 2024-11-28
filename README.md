@@ -8,7 +8,6 @@
 
 <img src="https://www.picgifs.com/mini-graphics/mini-graphics/kirby/mini-graphics-kirby-744718.gif" alt="gif" width="23" height="23"> Análise e Desenvolvimento de Sistemas - IFPR [2024 - atualmente]
 
-<h1>Ainda estou aprendendo
 <img src="https://www.picgifs.com/mini-graphics/mini-graphics/computer/mini-graphics-computer-401093.gif" alt="gif" width="68" height="50">
 <p>
   <a href="https://skillicons.dev">
